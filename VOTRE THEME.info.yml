@@ -1,0 +1,11 @@
+name: Foundation ZURB Template Theme
+type: theme
+description: 'Drupal 8 theme based on Foundation version 6 ZURB Template.'
+version: 1.0.0
+core: 8.x
+base theme: false
+
+libraries:
+  - apa/global
+
+regions:
